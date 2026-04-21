@@ -1,1 +1,1 @@
-## Learning Github with Krish Naik
+## Learning Github with Krish Naik and codeacademy
